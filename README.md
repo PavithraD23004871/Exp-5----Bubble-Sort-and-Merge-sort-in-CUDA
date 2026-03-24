@@ -1,7 +1,7 @@
 # Exp5 Bubble Sort and Merge sort in CUDA
 # Name: Pavithra D
 # Reference No: 212223230146
-# Date:21.03.2026
+# Date:23.03.2026
 
 **Objective:**
 Implement Bubble Sort and Merge Sort on the GPU using CUDA, analyze the efficiency of this sorting algorithm when parallelized, and explore the limitations of Bubble Sort and Merge Sort for large datasets.
